@@ -1,4 +1,8 @@
-# vscode-angular-support
+# vs-angular-support
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=skwonandy.vs-angular-support)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue.svg)](https://marketplace.visualstudio.com/items?itemName=skwonandy.vs-angular-support)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/skwonandy/vs-angular-support)
 
 Very lightweight language support for angular definitions. **Now supports Angular 21!**
 

@@ -1,13 +1,13 @@
 {
-  "name": "vscode-angular-support",
+  "name": "vs-angular-support",
   "displayName": "Angular Support",
   "description": "Go to / peek angular specific definitions. Supports Angular 21.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "publisher": "skwonandy",
 	"icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skwonandy/vscode-angular-support"
+    "url": "https://github.com/skwonandy/vs-angular-support"
   },
   "engines": {
     "vscode": "^1.10.0"
